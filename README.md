@@ -1,4 +1,8 @@
-# CSCI_635_Project
+# CSCI_635_Project <br/>
+Authors: Herat Patel, Amrutha Mandalreddy, Raakesh Murugaian and Shweta Wahane <br/>
+
+Link to Kaggle Notebook: https://www.kaggle.com/suchadraggg/ml-project1 <br/>
+
 Kaggle Digit Recogniser contest, Algorithms used:- K-nearest neighbour, Multi-layer perceptron, Dataset:- MNIST
 
 <br/>
